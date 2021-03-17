@@ -16,6 +16,7 @@ I'm a {backend, frontend and mobile} developer and coffer lover.
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg"></code>
@@ -25,6 +26,7 @@ I'm a {backend, frontend and mobile} developer and coffer lover.
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/php/php-icon.svg"></code>
@@ -35,5 +37,7 @@ I'm a {backend, frontend and mobile} developer and coffer lover.
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
