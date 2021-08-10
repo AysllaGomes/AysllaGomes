@@ -1,17 +1,14 @@
 # Hi, I'm Ayslla Caroline! :P
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AysllaGomes)](https://github.com/AysllaGomes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayslla-caroline-prates-gomes-42b91515a/)](https://www.linkedin.com/in/ayslla-caroline-prates-gomes-42b91515a/)
-<!--
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LStranger_Aysh)](https://twitter.com/LStranger_Aysh)
--->
+#### Systems Analyst at Banco do Brasil Tecnologia e Serviços
 
 **About me:**  
 I'm a {backend, frontend and mobile} developer and coffer lover.
 
-<a href="https://github.com/AysllaGomes">
-    <img width="50%" align="right" width="50%" alt="psico github stats" src="https://github-readme-stats.vercel.app/api?username=AysllaGomes&show_icons=false&hide_border=false"/>
-</a>
+ <div>
+    <a href="https://github.com/AysllaGomes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AysllaGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AysllaGomes&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 **Knowledge:**  
 
@@ -43,3 +40,12 @@ I'm a {backend, frontend and mobile} developer and coffer lover.
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
+
+##
+
+ <div>   
+  <a href="https://twitter.com/LStranger_Aysh/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ayslla.gomes@outlook.com"><img src="https://img.shields.io/badge/-Outlook-969696?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>  
+  <a href="https://codepen.io/AyshCaroline" target="_blank"><img src="https://img.shields.io/badge/-CodePen-000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/ayslla-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
